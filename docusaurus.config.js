@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Coinbiz Wiki',
   tagline: 'Kiến thức căn bản Coinbiz Việt Nam',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://coinbiz-wiki.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
